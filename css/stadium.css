@@ -1,0 +1,25 @@
+.content__box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+.s__title{
+    color: rgb(46, 46, 46);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+.box__item{
+     margin-top: 40px;
+    
+}
+.box__title{
+    color: rgb(75, 75, 75);
+    font-size: 24px;
+}
+.box__text{
+    color: rgb(136, 135, 135);
+    font-size: 18px;
+    line-height: 27px
+}

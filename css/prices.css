@@ -1,0 +1,59 @@
+/* .container {
+    min-width: 992px ;
+    text-align: center;
+} */
+.rates{
+    padding: 100px 0;
+    background-color: #343a40;
+    color: #fff ;
+    border: 0;
+}
+.title1{
+    font-size: 28px;
+    text-align: center;
+}
+.table {
+    text-align: left;
+    background-color: #343a40;
+    width: 100%;
+    margin-bottom: 16px;
+    color: #212529;
+    color: #fff;
+    border: 0;
+  }
+  .col {
+    max-width: 100%;
+
+  }
+  .title{
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 22px;
+  }
+  .text-left {
+    text-align: left;
+  }
+  
+.table tbody tr:nth-of-type(odd) {
+    background-color: #41464b;
+
+  }
+  
+.table tbody tr:hover {
+    color: #212529;
+    background-color: rgba(0, 0, 0, 0.075);
+  }
+.table th,
+.table td {
+  padding: 12px;
+  vertical-align: top;
+  border-top: 1px solid #5e6266;
+  border: 0;
+  font-size: 18px;
+}
+.table-sm th,
+  .table-sm td {
+    padding: 4.8px;
+  }
+
+  
